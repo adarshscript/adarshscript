@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Adarsh Maurya
-**Computer Science Engineer (CSE) | MERN Stack Learner | Web & Software Developer 🇮🇳**
+**Computer Science Engineer (CSE) | IT Intern at Tata Advanced Systems Limited (TASL) | Web & Software Developer**
 
 Email Me 👉 ✉️ **adarshmauryacse@gmail.com** For collaboration, projects, or opportunities. 😊😊
 
@@ -16,7 +16,9 @@ Email Me 👉 ✉️ **adarshmauryacse@gmail.com** For collaboration, projects, 
 ![](https://github-profile-trophy.vercel.app/?username=adarshscript&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_adarsh__19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh295) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshmauryacse@gmail.com) 
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_adarsh__19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh295) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshmauryacse@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-555555.svg?logo=google-chrome&logoColor=white)](https://adarsh-maurya-jwlchvq.gamma.site/adarshscript295) [![Internship](https://img.shields.io/badge/Internship-Tata%20Advanced%20Systems%20Limited-003A8F.svg?logo=briefcase&logoColor=white)](#)
+
+
 
  <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
