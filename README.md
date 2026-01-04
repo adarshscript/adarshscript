@@ -1,16 +1,16 @@
 # 💫 Hi 👋, I'm Adarsh Maurya
-**A Computer Science Engineer || DevOps Engineer || Kafka Admin from India**
+**Computer Science Engineer (CSE) | MERN Stack Learner | Web & Software Developer 🇮🇳**
 
-Email Me 👉 ✉️ **adarshmauryacse@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **adarshmauryacse@gmail.com** For collaboration, projects, or opportunities. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **I’m currently working on:** AI-powered web applications and academic & real-world projects
+- 🌱 **I’m currently learning:** MERN Stack (MongoDB, Express.js, React.js, Node.js) & DevOps basics
+- 👯 **I’m looking to collaborate on:** Web Development, Full-Stack projects, and AI-based systems
+- 🤔 **I’m looking for help with:** Advanced MERN stack, system design, and DevOps practices
+- 💬 **Ask me about:** HTML, CSS, JavaScript, Node.js, Python, Java, Web Projects
+- 📫 **How to reach me:** 📧 adarshmaurya1912@gmail.com, https://www.linkedin.com/in/adarsh295
+- 😄 **Pronouns:** AdarshScript
+- ⚡ **Fun fact:** I love building things with code — and learning never stops 🚀
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adarshscript&theme=radical&no-frame=false&no-bg=true&margin-w=4)
